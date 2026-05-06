@@ -2,7 +2,7 @@
 
 StackTrim is a free AI spend audit for startup founders and engineering managers who pay for Cursor, Copilot, Claude, ChatGPT, API usage, Gemini, or Windsurf. Users enter their stack, see plan-fit recommendations and savings immediately, then capture or share a public report URL.
 
-Live URL: TODO after deploy.
+Live URL: https://credex-ai-spend-audit.vercel.app/
 
 ## Screenshots
 
