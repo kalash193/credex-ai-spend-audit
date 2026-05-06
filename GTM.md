@@ -1,0 +1,9 @@
+# Go-To-Market
+
+The first target user is the engineering manager or technical founder at a seed to Series A software startup with 5-50 employees, at least three engineers, and visible AI-tool enthusiasm. They are not yet big enough to have procurement discipline, but they already have recurring Cursor, ChatGPT Team, Copilot Business, Claude, and API bills spread across cards and expense reports.
+
+Right before they need this, they are searching or scrolling for things like "Cursor pricing too expensive", "Claude Team vs Pro", "OpenAI API bill spike", "GitHub Copilot Business worth it", or founder posts about burn reduction. They hang out in specific places: r/SaaS, r/startups, r/LocalLLaMA, Indie Hackers, the Latent Space Discord, AI Engineer Discord, Vercel community channels, Cursor community threads, Hacker News launch comments, and X lists around AI engineers and technical founders.
+
+With $0 paid budget, the first 100 users should come from direct founder/operator distribution. Day one: post a teardown thread with three anonymized audits and a link to run your own. Day two: reply to every public post complaining about AI bills with a useful mini-audit, not spam. Day three: DM 40 founders from Indie Hackers and X who mention Cursor, Claude, or OpenAI spend. Day four: publish "The AI tool bill checklist for seed-stage teams" and submit it to Hacker News as a practical worksheet. Day five: ask early users for permission to publish anonymized before/after savings screenshots.
+
+The unfair channel is Credex's access to real discounted-credit economics. Most audit tools can say "downgrade"; Credex can say "you are paying retail for a category where verified discounted supply exists." Week-one traction looks like 100 completed audits, 25 captured emails, 8 high-savings consultation clicks, and 3 calls booked.

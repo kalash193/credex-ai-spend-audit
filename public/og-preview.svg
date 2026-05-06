@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">StackTrim AI Spend Audit preview</title>
+  <desc id="desc">Dark report preview with savings chart and Credex CTA.</desc>
+  <rect width="1200" height="630" fill="#101612"/>
+  <rect x="76" y="68" width="1048" height="494" rx="28" fill="#f8f5ec"/>
+  <text x="132" y="154" fill="#101612" font-family="Arial, sans-serif" font-size="58" font-weight="700">StackTrim AI Spend Audit</text>
+  <text x="132" y="218" fill="#4c5b51" font-family="Arial, sans-serif" font-size="28">Find wasted AI spend before it becomes recurring burn.</text>
+  <rect x="132" y="294" width="398" height="162" rx="18" fill="#103b2d"/>
+  <text x="164" y="356" fill="#d7f8b8" font-family="Arial, sans-serif" font-size="26">Potential savings</text>
+  <text x="164" y="420" fill="#ffffff" font-family="Arial, sans-serif" font-size="64" font-weight="700">$3,420/mo</text>
+  <rect x="590" y="294" width="396" height="162" rx="18" fill="#e3ece3"/>
+  <text x="624" y="356" fill="#2d3d33" font-family="Arial, sans-serif" font-size="26">Credex-ready leads</text>
+  <text x="624" y="420" fill="#101612" font-family="Arial, sans-serif" font-size="54" font-weight="700">Audit + URL</text>
+</svg>
